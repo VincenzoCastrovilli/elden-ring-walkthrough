@@ -39,6 +39,43 @@ const EPS = [
     { t:'tip', text:"For now our priority is to have enough health to not die every time we get hit — so Vigor it is!" }
   ]
 }
+,
+{
+  id: 2,
+  title: "Episode 02",
+  steps: [
+    "Clear Gatefront Ruins — use stealth and pull enemies with your bow",
+    { t:'tip', text:"Pulling enemies one by one with a bow is the safest way to clear camps. Equip a bow and use arrows to lure enemies away from the group." },
+    "<i>Map: Limgrave, West</i> (on the stone pillar at the center of the ruins)",
+    "<i>3x Ruin Fragment</i>",
+    "<i>Longsword's Greatsword</i> (or <i>Flail</i>) — from the chest inside the ruins",
+    "<i>Whet Knife</i> + <i>Ash of War: Storm Stomp</i> — from the chest in the ruins",
+    "Summon Torrent → ride to Site of Grace: Agheel Lake North → Rest",
+    "Level up — prioritize: Vigor to 20, then Str 18, End 15, Dex 17, then Vigor 25, End 20",
+    { t:'tip', text:"Stat priority for this build: Vigor 20 → Str 18 → End 15 → Dex 17 → Vigor 25 → End 20. Stick to this order for now." },
+    "Pass time until Morning (hold Rest at grace → \"Pass time\")",
+    "Ride northwest of Agheel Lake North — look for a suspicious bush near the trees → hit it",
+    "Speak to Boc the Seamster twice",
+    "<i>10x Mushroom</i> (loot nearby)",
+    "Talk to Boc once more",
+    "<i>Arteria Leaf</i> (southwest of Boc's location)",
+    "Ride east to the bridge — kill the Grey Scarab → <i>Ash of War: Determination</i>",
+    "<i>Smithing Stone [1]</i> (on the bridge)",
+    "Graveyard nearby: <i>Golden Rune [1]</i>, <i>Golden Rune [2]</i>, <i>Golden Rune [3]</i>, <i>Golden Rune [1]</i>, <i>Golden Rune [1]</i>",
+    "Warp to Site of Grace: Church of Elleh",
+    "Talk to Renna → \"I can call the spectral steed\" → <i>Spirit Calling Bell</i> + <i>Lone Wolf Ashes</i>",
+    "Talk to Renna again until she vanishes",
+    "Talk to Kalé twice → buy <i>Nomadic Warrior's Cookbook [1]</i> (500 Runes)",
+    { t:'tip', text:"Don't spend runes on other cookbook items yet — save them for levelling up. Buy the others later when you have surplus runes." },
+    "Upgrade <i>Uchigatana +1</i> at the anvil (requires <i>Smithing Stone [1]</i>)",
+    "Warp to Site of Grace: Gatefront → ride northwest",
+    "<i>Lump of Flesh</i> (on a corpse along the path)",
+    "<i>Golden Seed</i> (glowing small tree)",
+    "Site of Grace: Stormhill Shack → Rest → Add Charge to Flask",
+    "<i>Stonesword Key</i> (on a corpse on the wooden structure near the shack)",
+    "Talk to Roderika 3 times → <i>Gesture: Sitting Sideways</i> + <i>Spirit Jellyfish Ashes</i>"
+  ]
+}
 ];
 
 // ─── STATE ───────────────────────────────────────────────────
