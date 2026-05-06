@@ -77,6 +77,52 @@ const EPS = [
     "<i>Stonesword Key</i> (few steps southeast, corpse up wooden structure)",
     "Inside the shack, talk to Roderika 3x → <i>Gesture: Sitting Sideways</i> + <i>Spirit Jellyfish Ashes</i>"
   ]
+},
+{
+  id: 3,
+  title: "Episode 03",
+  steps: [
+    "From Stormhill Shack",
+    "South on top of ruins: <i>Crossed Legs</i>",
+    "Southwest to the edge to find a big Sundial: <i>Starlight Shard</i>",
+    "Northwest in the forest, all the way to the northwest corner: <i>Smithing Stone [1]</i>",
+    "East in the forest, through Jellyfish camp, just loot and run: <i>3x Bloodrose</i> + <i>Godrick Soldiers Ashes</i> + <i>3x Magic Grease</i>",
+    "East, drop down and then northeast back to Stormhill Shack",
+    "Pass time until morning",
+    "Southeast to dead guy sitting on chair in an open field: <i>3x Smithing Stone [1]</i>",
+    "Head north to upper layer of the hill then east along the edge: <i>Strength-Knot Crystal Tear</i>",
+    "Go backwards and down the lower cliff level, then east to: <i>5x Fire Arrows</i>",
+    "Go east/southeast to a graveyard (watch out bombs): <i>Golden Rune [3]</i>, <i>Golden Rune [2]</i>, <i>Golden Rune [2]</i>, <i>Golden Rune [5]</i>, <i>Golden Rune [1]</i>, <i>Golden Rune [1]</i>, <i>Golden Rune [1]</i>, <i>Golden Rune [1]</i>",
+    "North/Northeast → Site of Grace: Warmaster's Shack",
+    "Talk to Bernhal",
+    "\"My Faith holds firm\"",
+    "Talk",
+    "Purchase: <i>Ash of War: No Skill</i> (600 Runes)",
+    "A few steps east/northeast around a tree: <i>3x Root Resin</i> (these can be farmed by resting at the nearby grace, very useful crafting material)",
+    "Go back to the grace, use all golden runes and level up — reach Vigor 20 or close",
+    { t:'tip', text:"Stats goals by priority: Vigor 20 → Strength 18 → End 15 → Dex 17 → Vigor 25 → End 20" },
+    "Pass time until morning",
+    "South to troll area — have them destroy the glowing stone to get: <i>4x Smithing Stone [1]</i> + <i>1x Smithing Stone [2]</i>",
+    "Northeast to an item under a troll: <i>Beast Liver</i>",
+    "North to encampment — hotkey Lone Wolf Ashes and summon them — clear the camp: <i>Exalted Flesh</i> (corpse near tent on the right) + <i>Beast Crest Heater Shield</i> (chest on opposite side of camp)",
+    "Clear the rest of the camp with the help of your Wolves",
+    "East back on the trail → Site of Grace: Saintsbridge",
+    "Cross bridge: <i>2x Smithing Stone [1]</i> (corpse)",
+    "Merchant to the right past bridge: buy <i>Nomadic Warrior's Cookbook [3]</i> + <i>Cracked Pot</i>",
+    "Southeast to a big two-part ruins, at the foot of second one loot 3 plants: <i>3x Triny's Lily</i>",
+    "West/southwest, drop down a couple of cliffs then south to a shack: <i>Smithing Stone [1]</i> + <i>\"Homing Instinct\" Painting</i>",
+    "Site of Grace: Artist's Shack",
+    "Northeast, drop down another cliff and further northeast to a graveyard: <i>Golden Rune [6]</i>, <i>Golden Rune [1]</i>, <i>Golden Rune [4]</i>, <i>Fevor's Cookbook [1]</i>, <i>Golden Rune [1]</i>, <i>Golden Rune [2]</i>, <i>Golden Rune [4]</i>, <i>Golden Rune [1]</i>",
+    "North/Northeast — drop down safely using tombstones sticking out of the cliff wall",
+    "Drop down the next cliff using another tombstone, land in the river with bear and wolves fighting — quickly loot corpse and go back: <i>Smithing Stone [2]</i>",
+    "Follow the river, stick to your left — further east find Grey Scarab on northern river bank: <i>Ash of War: Sacred Blade</i>",
+    "Further east by a broken cart: <i>Neutralizing Boluses</i>",
+    "Go back west along the cliff edge until you can safely drop down to reach the church below",
+    "Inside the church: <i>Crimson Crystal Tear</i> + <i>Flask of Wondrous Physicks</i> + <i>Sacred Tear</i>",
+    "Site of Grace: Third Church of Marika",
+    "Rest and talk to Melina",
+    "\"I'm interested\""
+  ]
 }
 ];
 
